@@ -1,0 +1,52 @@
+body { 
+    font-size: 16px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    padding: 2rem;
+    background-color: #cccccc;
+}
+
+.t_principal {
+    margin-left: 1rem;
+}
+
+p {
+    text-align: center;
+}
+
+#mision {
+    color: #424242;
+}
+
+strong {
+    color: red;
+}
+
+.diferenciales{
+    padding: 2rem;
+    background-color: #ffffff;
+}
+
+.t_centrado {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 1rem;
+}
+
+.elementos {
+    font-style: italic;
+}
+
+.imagen_defirencial {
+    width: 50%;
+}
